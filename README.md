@@ -3,8 +3,6 @@
 
 This uses a custom pulse css class, with a delay and iteration of 3
 
-[detail.ts]
-and 
-[master.ts]
+.pulse3
 
 and is viewable on the top link button at [Amazon Add On Items - Info Site] (http://www.filleritems.co.uk)
